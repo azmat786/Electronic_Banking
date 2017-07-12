@@ -1,0 +1,67 @@
+@CHARSET "ISO-8859-1";
+.header{
+		width: 1000px;
+		height: 140px;
+		margin: 20px 0 0 170px;
+		
+		background:url(../image/banki.jpg) repeat-x ;
+		
+	}
+	
+	.header ul{
+		display:block;
+		padding: 0px;
+		margin:35px 0px 0px 50px;
+		float:left;
+	}
+	.header ul li{
+		display:inline;
+		padding: 0px 0px 0px 20px;
+		margin-top:0px;
+				
+	}
+	.header ul li a{
+		font-size:25px;
+		color:white;
+		background-color:black;
+		text-align:center;
+		padding:0px 0px 0px 0px;
+		text-decoration:none;
+		margin-top:0px;
+		
+	}
+	.header ul li a:hover{
+		background-color: #4CAF50;
+	}
+
+	.left-body{
+		border:0px solid;
+		height:500px;
+		width:200px;
+		background:url(../image/banki.jpg) ;
+	}
+	.middle-body{
+		border:0px solid;
+		height:500px;
+		width:588px;
+		
+	}
+	.right-body{
+		border:0px solid;
+		height:500px;
+		width:200px;
+		background:url(../image/banki.jpg) ;
+	}
+	.body{
+		background-color:#008080;
+		
+	}
+	.footer{
+		boder:0px solid;
+		height:130px;
+		width:1000px;
+		background-color:#005353;
+		margin:0px 0px 0px 170px;
+	}
+	
+	

@@ -1,0 +1,27 @@
+@CHARSET "ISO-8859-1";
+#header{
+		border: 1px solid;
+		width: 1000px;
+		height: 180px;
+		margin-left:150px;
+		background-color:#005353;
+		
+	}
+	.left-body{
+		border:0px solid;
+		height:600px;
+		width:280px;
+	}
+	.middle-body{
+		border:0px solid;
+		height:600px;
+		width:420px;
+	}
+	.right-body{
+		border:0px solid;
+		height:600px;
+		width:280px;
+	}
+	.body{
+		margin:0px 0px 0px 150px;
+	}

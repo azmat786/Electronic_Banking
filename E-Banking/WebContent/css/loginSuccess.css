@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+.headerLS{
+	border:1px solid;
+	height:150px;
+	width:1100px;
+	margin-left:120px;
+	background:url(image/h1.jpg);
+}
+
+.left-body{
+	height:500px;
+	width:250px;
+	margin-left:0px;
+	background-color:#5F9EA0;
+}
+.middle-body{
+	height:500px;
+	width:830px;
+	
+}
+
+.list-left{
+	height:50px;
+	width:250px;
+	font-size:25px;
+	margin:0px 0px 0px 0px;
+	padding:20px 0px 0px 0px;
+	
+}
+a{
+	color:#A9A9A9;
+}
+a:hover{
+	color:#DCDCDC;
+	background-color:;
+}
